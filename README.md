@@ -18,11 +18,12 @@ Materials for the Fall 2023 PSU One Health Microbiome Center KickStart Workshop
 - Nichole Ginnan (co-chair)	(nginnan@psu.edu)
 
 ### TAs:
-- Jamie Spychalla
+- Jamie Spychalla 
 - Abby Gancz
 - Christine Ta
-- Daniela Betanurt
+- Daniela Betancurt
 - Hanh Tran
+- Polina Tikhonova
 
 ## Requirements
 A PSU email and access to Penn State’s Roar system is required prior to the workshop. You can do this by going to https://accounts.aci.ics.psu.edu, and entering your information.  For the purposes of this workshop, please list Francisco Dini Andreote (fjd5141) as your account sponsor and put "2023 Microbiome Center Summer Workshop" into the "Research Description" field of the account request form. 
