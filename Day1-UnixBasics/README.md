@@ -16,7 +16,7 @@
 
 ## Resources
 - [Roar Users' Guide](https://www.icds.psu.edu/computing-services/roar-user-guide/)
-- [Roar Collab Open OnDemand Portal]([[https://portal2.aci.ics.psu.edu/pun/sys/dashboard](https://rcportal.hpc.psu.edu/pun/sys/dashboard)](https://rcportal.hpc.psu.edu/pun/sys/dashboard))
+- [Roar Collab Open OnDemand Portal](https://portal2.aci.ics.psu.edu/pun/sys/dashboard)
 - [Unix cheat sheet](https://www.alexji.com/UNIXCheatSheet.pdf)
 - [Base R cheat sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
 
