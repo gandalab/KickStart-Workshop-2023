@@ -26,7 +26,7 @@ module load anaconda
 
 ## SSH
 ```
-ssh <PSU ID>@submit.aci.ics.psu.edu
+ssh <PSU ID>@submit.hpc.psu.edu
 qsub -A wff3_g_g_lc_icds-training -l walltime=5:00:00 -l nodes=1:ppn=4 -I
 module use /gpfs/group/RISE/sw7/modules
 module load anaconda
