@@ -1,7 +1,7 @@
 # Intro to Unix and Programming
 
 ## Goals
-1. Gain familiarity with Penn State's [Roar computing cluster](https://www.icds.psu.edu/computing-services/roar-user-guide/) cluster. [[slides](https://docs.google.com/presentation/d/17Gb4X6JsvvhE2Qx-UwuJo2lTXZJBFJh8ZT5H-l9kjZ0/edit?usp=sharing)] 
+1. Gain familiarity with Penn State's [Roar Collab computing cluster]([https://www.icds.psu.edu/computing-services/roar-user-guide/](https://www.icds.psu.edu/roar-collab-user-guide/)) cluster. [[slides](https://docs.google.com/presentation/d/17Gb4X6JsvvhE2Qx-UwuJo2lTXZJBFJh8ZT5H-l9kjZ0/edit?usp=sharing)] 
 
 2. Learn how to control a computer via command line, including:
 	- moving around the computer 
@@ -16,8 +16,7 @@
 
 ## Resources
 - [Roar Users' Guide](https://www.icds.psu.edu/computing-services/roar-user-guide/)
-- [Roar Open OnDemand Portal](https://portal2.aci.ics.psu.edu/pun/sys/dashboard)
-- [Workshop info and schedule](https://docs.google.com/document/d/1ECWn5opE7mRJfoV8nghJnb98MakihQeq8oTFL7afAtc/edit?usp=sharing)
+- [Roar Collab Open OnDemand Portal]([[https://portal2.aci.ics.psu.edu/pun/sys/dashboard](https://rcportal.hpc.psu.edu/pun/sys/dashboard)](https://rcportal.hpc.psu.edu/pun/sys/dashboard))
 - [Unix cheat sheet](https://www.alexji.com/UNIXCheatSheet.pdf)
 - [Base R cheat sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
 
