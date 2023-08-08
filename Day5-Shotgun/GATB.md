@@ -19,11 +19,11 @@ mkdir GATB_analysis
 cd GATB_analysis
 mkdir scripts output data
 ```
-This pipeline is installed in a different location, so please do the following to activate it on your system
+This pipeline is installed in a different conda environment, so please do the following to activate it on your system
 ```
-conda deactivate
-conda activate /gpfs/group/RISE/training/2022_microbiome/gatb
-export PATH="/gpfs/group/RISE/training/2022_microbiome/gatb/gatb-minia-pipeline:$PATH"
+module use /gpfs/group/RISE/sw7/modules
+module load anaconda
+conda activate gatb
 ```
 
 If you want to install it in a different location, here are the steps:
