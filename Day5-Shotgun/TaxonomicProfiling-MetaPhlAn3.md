@@ -153,7 +153,7 @@ Please proceed to [**Run a single sample**](#run-a-single-sample) section below.
 Here is the basic example to profile a single metagenome from raw reads:
 
 ```
-metaphlan data/SRS014476-Supragingival_plaque.fasta --input_type fasta --nproc 5 --force -o output/SRS014476-Supragingival_plaque_profile.txt --bowtie2out output/SRS014476-Supragingival_plaque.fasta.bowtie2out.txt
+metaphlan data/SRS014476-Supragingival_plaque.fasta --input_type fasta --nproc 4 --force -o output/SRS014476-Supragingival_plaque_profile.txt --bowtie2out output/SRS014476-Supragingival_plaque.fasta.bowtie2out.txt
 ```
 
 ### **Output files**
