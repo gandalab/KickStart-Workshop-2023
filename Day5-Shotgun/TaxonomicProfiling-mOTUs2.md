@@ -28,7 +28,7 @@ module load anaconda
 module load gcc/8.3.1
 module load samtools
 module unload python  #<<-- samtools auto-loads a different version of python than the one we want to use
-conda activate bioconda
+conda activate bioconda  #<<-- alternatively: conda activate microbiome1
 ```
 
 Otherwise, if you are on a different system, do a fresh install via:
