@@ -40,7 +40,7 @@ a 16S and WGS platform, designed for GUI use (i.e. hard to work with on a cluste
 2. [Anvi'o](https://merenlab.org/software/anvio/) a WGS platform, designed for use on a server. A robust, capable platform, but with a somewhat steep learning curve and a number 
 of the analyses are either non-standard or not state-of-the-art.
 
-As such, we will be covering some of the current state-of-the-art (according to the recent [CAMI2 manuscript](https://www.biorxiv.org/content/10.1101/2021.07.12.451567v1)) stand-alone tools. We will be covering the following techniques
+As such, we will be covering some of the current state-of-the-art (according to the recent [CAMI2 manuscript](https://www.nature.com/articles/s41592-022-01431-4)) stand-alone tools. We will be covering the following techniques
 
 ![Main slides](https://user-images.githubusercontent.com/6362936/128754520-4e2852aa-52b4-43a5-9e68-4e6f4f030379.png)
 
